@@ -1,4 +1,4 @@
-###Things you need###
+###Things you need
 Ingredients | Quantity
 --------------|--------------
 Puffed Rice | 100gms
